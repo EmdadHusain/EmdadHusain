@@ -1,8 +1,7 @@
 ### Hi there 👋, My name is Emdad Husain
 
-Skills:  HTML / CSS/Bootstrap/JS/Php
+Skills:  HTML / CSS/Bootstrap/JavaScript/Php/WordPress Theme Development
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 
