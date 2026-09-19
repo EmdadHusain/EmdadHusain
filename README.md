@@ -1,20 +1,52 @@
-### Hi there 👋, My name is Emdad Husain
+# Hi there 👋, I'm Emdad Husain
 
-Skills:  HTML / CSS/Bootstrap/JavaScript/Php/WordPress Theme Development
+I'm a Web Developer with experience in WordPress, PHP, JavaScript, and modern frontend technologies.
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on Github 
+I build responsive websites, custom WordPress solutions, and eCommerce websites. I'm currently expanding my backend development skills with JavaScript and Node.js.
 
+## 🛠️ Skills
 
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+- JavaScript
+- PHP
+- WordPress
+- WooCommerce
+- Git & GitHub
 
+## 🌱 Currently Learning
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- Node.js
+- Express.js
+- REST APIs
+- Backend Development
+- React.js
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=EmdadHusain)](https://github.com/ryo-ma/github-profile-trophy)
+## 💼 What I Work With
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmdadHusain)](https://github.com/anuraghazra/github-readme-stats)
+- WordPress & Elementor
+- Custom WordPress Development
+- WooCommerce
+- Responsive Web Design
+- JavaScript
+- PHP
+- Frontend Development
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmdadHusain&show_icons=true)  
+## 🚀 Projects
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=EmdadHusain)  
+Here are some of my projects:
 
+- [Champion BD](https://emdadhusain.github.io/championbd/)
+- [Galaxy S25 Ultra](https://emdadhusain.github.io/Galaxy-S25-Ultra/)
+- [Excell BD](https://emdadhusain.github.io/ExcellBd/)
+- loresenseagency.com
+
+## 🎯 Goals
+
+I'm continuously improving my programming and backend development skills and working toward becoming a professional Software Engineer.
+
+## 📫 Connect with Me
+
+- GitHub: [@EmdadHusain](https://github.com/EmdadHusain)
