@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Emdad Husain
+# Hi there , I'm Emdad Husain
 
 I'm a Web Developer with experience in WordPress, PHP, JavaScript, and modern frontend technologies.
 
