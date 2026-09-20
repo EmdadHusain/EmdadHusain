@@ -41,7 +41,7 @@ Here are some of my projects:
 - [Champion BD](https://emdadhusain.github.io/championbd/)
 - [Galaxy S25 Ultra](https://emdadhusain.github.io/Galaxy-S25-Ultra/)
 - [Excell BD](https://emdadhusain.github.io/ExcellBd/)
-- loresenseagency.com
+- loresenseagency.com ~ a live digital marketing agency i made with wordpress, elementor, wocommerce, shop engine and many more plugins
 
 ## 🎯 Goals
 
